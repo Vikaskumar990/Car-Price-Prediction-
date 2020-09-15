@@ -9,7 +9,7 @@ Which variables are significant in predicting the price of a car.
 
 How well those variables describe the price of a car.
 
-It is basically a autombile dataset where we perform the Linear Regression Model, machine learning to plot the data and visulize which variable for most effective to find or predict the price of a car.
+It is basically an automobile datasets where we perform the Linear Regression Model, machine learning to plot the data and visulize which variable for most effective to find or predict the price of a car.
 
 In this dataset we analyze the data then we perform the task for visuliasing, firstly clean the data then spliting the columns name (like car_company) than after remove the uncessary columns then fixed the invalid values(there are some error in car-company name so we fixed the car name)
 
